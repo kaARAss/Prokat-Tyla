@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-28",
+  "typewriter": true,
+  "menu": true,
+  "gallery": true,
+  "report": [
+    {
+      "route": "index.html",
+      "width": 1440,
+      "overflow": false,
+      "h1": 1,
+      "hiddenCards": 0,
+      "invalidImages": [],
+      "clippedText": [],
+      "errors": []
+    },
+    {
+      "route": "index.html",
+      "width": 390,
+      "overflow": false,
+      "h1": 1,
+      "hiddenCards": 0,
+      "invalidImages": [],
+      "clippedText": [],
+      "errors": []
+    },
+    {
+      "route": "index.html",
+      "width": 320,
+      "overflow": false,
+      "h1": 1,
+      "hiddenCards": 0,
+      "invalidImages": [],
+      "clippedText": [],
+      "errors": []
+    }
+  ]
+}
