@@ -1,0 +1,90 @@
+[
+  {
+    "width": 1440,
+    "overflow": false,
+    "hero": 900,
+    "viewport": 900,
+    "sections": [
+      "top",
+      "fleet",
+      "section route-section",
+      "section experience",
+      "section moments",
+      "section faq-section",
+      "cta section"
+    ],
+    "buttons": [
+      [
+        "Записаться ↗",
+        "https://vk.me/k2renttula"
+      ],
+      [
+        "Услуги и цены →",
+        "rental.html#prices"
+      ]
+    ],
+    "broken": 0,
+    "typewriterChanges": true,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "overflow": false,
+    "hero": 900,
+    "viewport": 900,
+    "sections": [
+      "top",
+      "fleet",
+      "section route-section",
+      "section experience",
+      "section moments",
+      "section faq-section",
+      "cta section"
+    ],
+    "buttons": [
+      [
+        "Записаться ↗",
+        "https://vk.me/k2renttula"
+      ],
+      [
+        "Услуги и цены →",
+        "rental.html#prices"
+      ]
+    ],
+    "broken": 0,
+    "menuOpen": true,
+    "menuClosed": true,
+    "typewriterChanges": true,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "overflow": false,
+    "hero": 900,
+    "viewport": 900,
+    "sections": [
+      "top",
+      "fleet",
+      "section route-section",
+      "section experience",
+      "section moments",
+      "section faq-section",
+      "cta section"
+    ],
+    "buttons": [
+      [
+        "Записаться ↗",
+        "https://vk.me/k2renttula"
+      ],
+      [
+        "Услуги и цены →",
+        "rental.html#prices"
+      ]
+    ],
+    "broken": 0,
+    "menuOpen": true,
+    "menuClosed": true,
+    "typewriterChanges": true,
+    "errors": []
+  }
+]
