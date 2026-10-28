@@ -53,5 +53,18 @@
     "file": "assets/img/enduro.webp",
     "source": "https://vk.ru/photo-238016439_456239204",
     "album": "https://vk.ru/album-238016439_311159436"
+  },
+  {
+    "files": [
+      "assets/img/k2-cover-0.svg",
+      "assets/img/k2-cover-1.svg",
+      "assets/img/k2-cover-2.svg",
+      "assets/img/k2-cover-3.svg",
+      "assets/img/k2-cover-4.svg",
+      "assets/img/k2-cover-5.svg"
+    ],
+    "source": "https://vk.ru/k2renttula",
+    "description": "Оригинальная обложка K2, соответствующая баннеру пользователя. Оптимизированные фрагменты WebP в SVG отображаются как единое изображение.",
+    "retrieved": "2026-10-28"
   }
 ]

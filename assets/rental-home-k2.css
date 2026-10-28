@@ -14,3 +14,15 @@ html{scroll-behavior:smooth}body{margin:0;color:#eee}main{display:block}a:focus-
 @media(max-width:520px){#vkl .feat{grid-template-columns:minmax(0,1fr)}.f-ph{height:240px!important}.f-bd h3{font-size:23px}.f-bd p{font-size:15px}.con .c{min-width:0}.con .c .val{overflow-wrap:anywhere}}
 @media(prefers-reduced-motion:reduce){#tech .tech-card{opacity:1;transform:none}}
 @media(max-width:860px){.lightbox{width:100%;max-width:100%}}
+
+/* Original K2 cover: preserve the whole artwork on desktop; focus the riders on mobile. */
+#top.hero{height:max(100svh,calc((100vw - 15px)*.4 + 340px))!important;min-height:700px!important;background:#0c0b0a!important}
+#top .hero-bg{inset:80px 0 auto;width:100%;height:auto;aspect-ratio:5/2;background:none!important;overflow:hidden}
+#top .hero-banner{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));grid-template-rows:repeat(2,minmax(0,1fr));position:absolute;inset:0;width:100%;height:100%;gap:0}
+#top .hero-banner img{display:block;width:100%;height:100%;max-width:none;object-fit:fill}
+#top .hero-scrim2{display:none}#top.hero::after{background:none!important;pointer-events:none}
+#top .hero-content2.hero-left{bottom:48px}
+@media(max-width:860px){#top.hero{height:max(100svh,calc(55svh + 340px))!important;min-height:650px!important}#top .hero-bg{top:76px;height:55svh;aspect-ratio:auto}#top .hero-banner{height:100%;width:137.5svh;left:calc((100% - 137.5svh)*.63);right:auto}#top .hero-content2.hero-left{bottom:44px}#top .hero-bg::after{content:'';position:absolute;inset:0;background:linear-gradient(180deg,transparent 70%,#0c0b0a 100%);pointer-events:none}}
+@media(max-width:520px){#top .hero-content2.hero-left{bottom:36px}#top .hero-banner{left:calc((100% - 137.5svh)*.63)}}
+@media(max-width:860px){#top .hero-tagline{display:block}}
+@media(max-width:860px),(prefers-reduced-motion:reduce){#top .hero-tagline .tw-caret{display:none!important}}
