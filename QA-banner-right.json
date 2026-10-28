@@ -1,0 +1,110 @@
+[
+  {
+    "width": 1440,
+    "height": 900,
+    "overlayHidden": true,
+    "rightAligned": true,
+    "contentLeft": 782,
+    "contentRight": 1382,
+    "insideViewport": true,
+    "heroHeight": 900,
+    "overflow": false,
+    "brokenImages": 0,
+    "typing": true,
+    "buttons": [
+      {
+        "text": "Записаться ↗",
+        "href": "https://vk.me/k2renttula",
+        "right": 1162.546875
+      },
+      {
+        "text": "Услуги и цены →",
+        "href": "rental.html#prices",
+        "right": 1382.40625
+      }
+    ],
+    "reviews": 13,
+    "errors": []
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "overlayHidden": true,
+    "rightAligned": true,
+    "contentLeft": 492,
+    "contentRight": 983,
+    "insideViewport": true,
+    "heroHeight": 768,
+    "overflow": false,
+    "brokenImages": 0,
+    "typing": true,
+    "buttons": [
+      {
+        "text": "Записаться ↗",
+        "href": "https://vk.me/k2renttula",
+        "right": 794.296875
+      },
+      {
+        "text": "Услуги и цены →",
+        "href": "rental.html#prices",
+        "right": 983.046875
+      }
+    ],
+    "reviews": 13,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "overlayHidden": true,
+    "rightAligned": true,
+    "contentLeft": 22,
+    "contentRight": 368,
+    "insideViewport": true,
+    "heroHeight": 844,
+    "overflow": false,
+    "brokenImages": 0,
+    "typing": true,
+    "buttons": [
+      {
+        "text": "Записаться ↗",
+        "href": "https://vk.me/k2renttula",
+        "right": 188.359375
+      },
+      {
+        "text": "Услуги и цены →",
+        "href": "rental.html#prices",
+        "right": 368
+      }
+    ],
+    "reviews": 13,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "height": 700,
+    "overlayHidden": true,
+    "rightAligned": true,
+    "contentLeft": 22,
+    "contentRight": 298,
+    "insideViewport": true,
+    "heroHeight": 700,
+    "overflow": false,
+    "brokenImages": 0,
+    "typing": true,
+    "buttons": [
+      {
+        "text": "Записаться ↗",
+        "href": "https://vk.me/k2renttula",
+        "right": 298
+      },
+      {
+        "text": "Услуги и цены →",
+        "href": "rental.html#prices",
+        "right": 298
+      }
+    ],
+    "reviews": 13,
+    "errors": []
+  }
+]
