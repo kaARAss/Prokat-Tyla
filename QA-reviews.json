@@ -1,0 +1,41 @@
+[
+  {
+    "width": 1440,
+    "initialCount": 6,
+    "totalCount": 13,
+    "expandedCount": 13,
+    "fullTextVisible": true,
+    "fullTextClosed": true,
+    "collapsedCount": 6,
+    "sourceLinks": 14,
+    "overflow": false,
+    "preserveTexts": true,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "initialCount": 6,
+    "totalCount": 13,
+    "expandedCount": 13,
+    "fullTextVisible": true,
+    "fullTextClosed": true,
+    "collapsedCount": 6,
+    "sourceLinks": 14,
+    "overflow": false,
+    "preserveTexts": true,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "initialCount": 6,
+    "totalCount": 13,
+    "expandedCount": 13,
+    "fullTextVisible": true,
+    "fullTextClosed": true,
+    "collapsedCount": 6,
+    "sourceLinks": 14,
+    "overflow": false,
+    "preserveTexts": true,
+    "errors": []
+  }
+]
