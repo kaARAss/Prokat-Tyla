@@ -1,0 +1,29 @@
+{
+  "name": "K2",
+  "source": "https://vk.ru/k2renttula",
+  "retrieved": "2026-10-28",
+  "phone": "+79190891599",
+  "address": "Тула, Мелиоративная, 7с1",
+  "equipment": [
+    "CFMOTO 520L",
+    "KEWS K16"
+  ],
+  "prices": [
+    {
+      "durationMinutes": 60,
+      "rub": 5500
+    },
+    {
+      "durationMinutes": 90,
+      "rub": 8000
+    },
+    {
+      "durationMinutes": 150,
+      "rub": 12000
+    }
+  ],
+  "pricingCaveat": "В описании не уточнена привязка тарифов к типу техники и пассажиру; требуется подтверждение компании.",
+  "reviews": [],
+  "photosFound": 1226,
+  "photosDownloaded": 1225
+}

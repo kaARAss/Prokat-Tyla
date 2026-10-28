@@ -1,0 +1,74 @@
+[
+  {
+    "route": "index",
+    "width": 1440,
+    "overflow": false,
+    "broken": [],
+    "h1": 1,
+    "errors": []
+  },
+  {
+    "route": "rental",
+    "width": 1440,
+    "overflow": false,
+    "broken": [],
+    "h1": 1,
+    "errors": []
+  },
+  {
+    "route": "contacts",
+    "width": 1440,
+    "overflow": false,
+    "broken": [],
+    "h1": 1,
+    "errors": []
+  },
+  {
+    "route": "index",
+    "width": 390,
+    "overflow": false,
+    "broken": [],
+    "h1": 1,
+    "errors": []
+  },
+  {
+    "route": "rental",
+    "width": 390,
+    "overflow": false,
+    "broken": [],
+    "h1": 1,
+    "errors": []
+  },
+  {
+    "route": "contacts",
+    "width": 390,
+    "overflow": false,
+    "broken": [],
+    "h1": 1,
+    "errors": []
+  },
+  {
+    "route": "index",
+    "width": 320,
+    "overflow": false,
+    "broken": [],
+    "h1": 1,
+    "errors": []
+  },
+  {
+    "route": "rental",
+    "width": 320,
+    "overflow": false,
+    "broken": [],
+    "h1": 1,
+    "errors": []
+  },
+  {
+    "route": "contacts",
+    "width": 320,
+    "overflow": false,
+    "broken": [],
+    "h1": 1,
+    "errors": []
+  }
+]
